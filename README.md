@@ -1,4 +1,4 @@
-# -
+# display-board
 管制必备,易语言的一个电子标牌
 
 请使用windows电脑打开
